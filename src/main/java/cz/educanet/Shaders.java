@@ -1,6 +1,5 @@
 package cz.educanet;
 
-import org.lwjgl.opengl.GL20;
 import org.lwjgl.opengl.GL33;
 
 public class Shaders {
