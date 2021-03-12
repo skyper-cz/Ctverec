@@ -14,7 +14,7 @@ public class Shaders {
             "out vec4 FragColor;\n" +
             "void main()\n" +
             "{\n" +
-            "   FragColor = vec4(1f, 1f, 0f, 1f);\\n" +
+            "   FragColor = vec4(1.0f, 1.5f, 0.2f, 1.0f);\n" +
             "}\n";
 
     public static int vertexShaderId;
